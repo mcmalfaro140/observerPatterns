@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c92ee855-7365-493c-ae46-d24e38183126" name="Default Changelist" comment="" />
+    <list default="true" id="c92ee855-7365-493c-ae46-d24e38183126" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ObserverP/META-INF/ObserverP.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ObserverP/META-INF/ObserverP.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ObserverP/hwk1/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ObserverP/hwk1/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ObserverP/hwk1/Observer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ObserverP/hwk1/Observer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ObserverP/hwk1/Subject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ObserverP/hwk1/Subject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ObserverP/hwk1/Subscriber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ObserverP/hwk1/Subscriber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ObserverP/hwk1/newsletterpublisher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ObserverP/hwk1/newsletterpublisher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hwk1/Observer.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/hwk1/Observer.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hwk1/Subject.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/hwk1/Subject.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hwk1/Subscriber.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/hwk1/Subscriber.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hwk1/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/hwk1/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hwk1/newsletterpublisher.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/hwk1/newsletterpublisher.kt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +30,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1R1p6XhN5lUxNPsg7siqFcoAc4K" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -60,5 +85,16 @@
       <updated>1568844281132</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
